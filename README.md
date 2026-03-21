@@ -57,12 +57,8 @@ This platform analyzes user inputs such as interests, skills, and preferences to
 - Firebase (As a Database Storage)
 ---
 
-##  How to Run
-1. Download or clone the repository  
-2. Open the project folder  
-3. Run `index.html` in your browser  
-
----
+## Project Demo
+  👉 https://youtu.be/bNJczNR6F5Y
 
 ##  Future Enhancements
 - AI-based career prediction  
